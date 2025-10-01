@@ -40,23 +40,6 @@ It highlights Account Executives’ effectiveness across various income brackets
 - Target vs Achieved (Cross-sell, New, Renewal)  
 - Revenue by Stage (Qualify, Negotiate, Propose Solution)  
 
----
-
-## 📊 Dashboards
-### Excel Dashboard
-![Excel Dashboard]("[C:\Users\kotan\OneDrive\Pictures\Saved Pictures\Screenshot 2025-09-25 170016.png](url)")
-
-### Power BI Dashboard
-![Power BI Dashboard](["C:\Users\kotan\OneDrive\Pictures\Saved Pictures\Screenshot 2025-10-01 112744.png"](url))
-
-### Tableau Dashboard
-![Tableau Dashboard](["C:\Users\kotan\OneDrive\Pictures\Saved Pictures\Screenshot 2025-10-01 112908.png"](url))
-
-### SQL Dashboard
-- MySQL queries used for data extraction and KPI calculation are available in `/sql/queries.sql`.
-
----
-
 ## 📌 Recommendations
 - Improve opportunity management by focusing on small businesses & new markets.  
 - Provide tailored marketing and extra sales training.  
