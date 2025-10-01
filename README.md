@@ -44,13 +44,13 @@ It highlights Account Executives’ effectiveness across various income brackets
 
 ## 📊 Dashboards
 ### Excel Dashboard
-![Excel Dashboard]("C:\Users\kotan\OneDrive\Pictures\Saved Pictures\Screenshot 2025-09-25 170016.png")
+![Excel Dashboard]("[C:\Users\kotan\OneDrive\Pictures\Saved Pictures\Screenshot 2025-09-25 170016.png](url)")
 
 ### Power BI Dashboard
-![Power BI Dashboard]("C:\Users\kotan\OneDrive\Pictures\Saved Pictures\Screenshot 2025-10-01 112744.png")
+![Power BI Dashboard](["C:\Users\kotan\OneDrive\Pictures\Saved Pictures\Screenshot 2025-10-01 112744.png"](url))
 
 ### Tableau Dashboard
-![Tableau Dashboard]("C:\Users\kotan\OneDrive\Pictures\Saved Pictures\Screenshot 2025-10-01 112908.png")
+![Tableau Dashboard](["C:\Users\kotan\OneDrive\Pictures\Saved Pictures\Screenshot 2025-10-01 112908.png"](url))
 
 ### SQL Dashboard
 - MySQL queries used for data extraction and KPI calculation are available in `/sql/queries.sql`.
