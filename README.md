@@ -1,6 +1,4 @@
-<img width="1656" height="944" alt="Screenshot 2025-10-01 112744" src="https://github.com/user-attachments/assets/ca52aa7c-0db2-4451-9a5b-b2f11355e023" />
-<img width="1741" height="956" alt="Screenshot 2025-10-01 112908" src="https://github.com/user-attachments/assets/aeffff42-9389-405a-b676-3849a7ec45c5" />
-<img width="1493" height="957" alt="Screenshot 2025-09-25 170016" src="https://github.com/user-attachments/assets/e972aafd-572a-4da5-9894-1de5387b2929" />
+
 # insurance-analytics
 Insurance Analytics project using Excel, Power BI, Tableau, and MySQL to analyze KPIs like cross-sell, renewals, invoices, and revenue.
 # Insurance Analytics Project
@@ -43,6 +41,9 @@ It highlights Account Executives’ effectiveness across various income brackets
 - Target vs Achieved (Cross-sell, New, Renewal)  
 - Revenue by Stage (Qualify, Negotiate, Propose Solution)  
 
+<img width="1656" height="944" alt="Screenshot 2025-10-01 112744" src="https://github.com/user-attachments/assets/ca52aa7c-0db2-4451-9a5b-b2f11355e023" />
+<img width="1741" height="956" alt="Screenshot 2025-10-01 112908" src="https://github.com/user-attachments/assets/aeffff42-9389-405a-b676-3849a7ec45c5" />
+<img width="1493" height="957" alt="Screenshot 2025-09-25 170016" src="https://github.com/user-attachments/assets/e972aafd-572a-4da5-9894-1de5387b2929" 
 ## 📌 Recommendations
 - Improve opportunity management by focusing on small businesses & new markets.  
 - Provide tailored marketing and extra sales training.  
