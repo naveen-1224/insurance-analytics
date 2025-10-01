@@ -30,10 +30,10 @@ Target vs Achieved (Cross-sell, New, Renewal)
 Revenue by Stage (Qualify, Negotiate, Propose Solution)
 📊 Dashboards
 Excel Dashboard
-![Excel Dashboard](<img width="1402" height="949" alt="Screenshot 2025-10-01 112559" src="https://github.com/user-attachments/assets/43674a95-a9a6-42ae-82a3-3828a92ef05c" />)
+![Excel Dashboard]<img width="1402" height="949" alt="Screenshot 2025-10-01 112559" src="https://github.com/user-attachments/assets/43674a95-a9a6-42ae-82a3-3828a92ef05c" />
 
 Power BI Dashboard
-![Power BI Dashboard](<img width="1656" height="944" alt="Screenshot 2025-10-01 112744" src="https://github.com/user-attachments/assets/fdec1f4f-a7af-4524-a13a-8e6558530438" />)
+![Power BI Dashboard]<img width="1656" height="944" alt="Screenshot 2025-10-01 112744" src="https://github.com/user-attachments/assets/fdec1f4f-a7af-4524-a13a-8e6558530438" />
 
 Tableau Dashboard
 ![Tableau Dashboard]<img width="1741" height="956" alt="Screenshot 2025-10-01 112908" src="https://github.com/user-attachments/assets/0ed456ff-8d7d-499a-b861-9e9f9d03d7f9" />)
